@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ana",
+        "edad": 25,
+        "img": "https://via.placeholder.com/150/771796",
+        "id": 1
+    },
+    {
+        "name": "Juan",
+        "edad": 35,
+        "img": "https://via.placeholder.com/150/d32776",
+        "id": 2
+    },
+    {
+        "name": "Fede",
+        "edad": 28,
+        "img": "https://via.placeholder.com/150/5e12c6",
+        "id": 3
+    },
+    {
+        "name": "Carla",
+        "edad": 27,
+        "img": "https://via.placeholder.com/150/2a9243s",
+        "id": 4
+    }
+]
